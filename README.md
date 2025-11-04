@@ -37,9 +37,9 @@ For other installation methods, see the [official documentation](https://k6.io/d
 
 2. View the results in your terminal after the test completes.
 
-```bash
-k6 run vimec.js
-```
+    ```bash
+    k6 run vimec.js
+    ```
 
 3. Run a test script creating report:
     ```bash
